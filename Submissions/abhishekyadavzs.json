@@ -1,15 +1,15 @@
 {
   "name": "Abhishek",
   "img": "https://avatars.githubusercontent.com/u/73038173?s=400&u=633e95f5c01e6f761f6777ca8a5f6382faee9bd3&v=4",
-  "email": "iamabhishekyaduwanshi@gmail.com",
+  "email": "",
   "links": {
-    "website": "prizetor.com",
-    "linkedin": "https://www.linkedin.com/in/abhishekyadavzs",
+    "website": "",
+    "linkedin": "",
     "github": "https://github.com/abhishekyadavzs"
   },
   "jobTitle": "Full Stack Developer",
   "location": {
-    "city": "Indore",
+    "city": "Bhopal",
     "state": "Madhya Pradesh",
     "country": "India"
   }
